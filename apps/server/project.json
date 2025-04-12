@@ -22,9 +22,9 @@
         "tsConfig": "apps/server/tsconfig.app.json",
         "assets": [
           {
-            "input": "apps/server/assets",
+            "input": "apps/server/www",
             "glob": "**/*",
-            "output": "assets"
+            "output": "www"
           }
         ],
         "generatePackageJson": true,

@@ -6,5 +6,5 @@
     "types": ["node"]
   },
   "include": ["**/*.ts"],
-  "exclude": ["eslint.config.*", "project.json", "tsconfig.*"]
+  "exclude": ["eslint.config.*", "project.json", "tsconfig.*", ".gitignore"]
 }
